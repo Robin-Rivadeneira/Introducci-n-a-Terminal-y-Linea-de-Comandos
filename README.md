@@ -20,4 +20,15 @@ El usuario percibe el procesamiento de sus instrucciones en forma de acción. Si
 
 También es posible usar scripts, es decir, archivos con instrucciones guardadas como si se estuviesen escribiendo en el momento. En caso de error, la ejecución del script puede abortarse. De esta forma, la línea de comandos puede utilizarse sin siquiera tener que lidiar con el prompt, ni estando presente frente al monitor o teclado.
 
-
+# Algunos comandos para la consola de Window
+* ```cls``` Limpia la consola
+* ```exit``` Cierra la ventana de comandos
+* ```help``` Muestra una lista de comandos disponibles
+* ```cd``` El comando utilizado para el desplazamiento entre carpetas; después del comando (cd) debemos ingresar el nombre de la carpeta a la cuál queremos acceder
+* ```cd ..``` Regresa a la carpeta anterior
+* ```dir``` Muestra el contenido dentro de una carpeta
+* ```tree``` Muestra un árbol de directorios; después del comando (tree) debemos ingresar el nombre de la carpeta a la cual queremos ver sus directorios
+* ```md``` Crea una nueva carpeta; después del comando (md) se debe ingresar el nombre que tendrá la nueva carpeta
+* ```rename``` Renombra un archivo
+* ```rd``` Elimina una carpeta
+* ```del``` Elimina un archivo específico o el contenido de una carpeta
